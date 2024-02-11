@@ -1,4 +1,4 @@
-# microsoft-server-terraform
+# minecraft-server-terraform
 
 ## 概要
 
